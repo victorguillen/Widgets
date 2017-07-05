@@ -2,7 +2,7 @@
   "name": "widgets",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.victorguillen.io/Widgets/",
+  "homepage": "https://github.com/victorguillen/Widgets",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
